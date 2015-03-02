@@ -1,0 +1,29 @@
+.pink-text {
+    font-size: 16px;
+    color: #EC7897;
+}
+
+.orange-text {
+    font-size: 16px;
+    color: #EC9378;
+}
+
+.lightpurple-text {
+    font-size: 16px;
+    color: #EC78D1;
+}
+
+h1 {
+    color: #F72F65;
+    font-style: italic;
+}
+
+h2 {
+    color: #CD78EC;
+    font-style: oblique;
+}
+
+.green-text {
+    color: #1AD9AC;
+    font-style: oblique;
+}
